@@ -1,2 +1,2 @@
 # Portfolio
-my portfolio
+what I am, what i do and what am made of.
